@@ -92,3 +92,5 @@
 * [Efe Öge's Blog](https://efe.me)
 * [garrigos.cat Blog](https://garrigos.cat)
 * [ThePeachTimes](https://thepeachtimes.js.org/)
+* [varrazzo.com](https://www.varrazzo.com/blog/)
+* [psycopg.org](https://www.psycopg.org/articles/)
